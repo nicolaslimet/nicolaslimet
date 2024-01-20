@@ -1,7 +1,7 @@
 # Hi there👋
 ## I'm a web & WordPress developer
 
-:desktop_computer: I manage: HTML, CSS, Js, jQuery, PHP, React, Redux
+:desktop_computer: I manage: HTML, CSS, Js, jQuery, PHP, MySQL /MariaDB, React, Redux
 
 :zap: I mainly do: custom WordPress plugins
 
